@@ -2,8 +2,7 @@
 streamlit>=1.20.0
 pypdf2==3.16.0
 sentence-transformers>=2.2.2
-faiss-cpu>=1.7.4
+scikit-learn>=1.2.2
 ibm-watson>=6.1.0
 python-dotenv>=1.0.0
-
 

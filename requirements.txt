@@ -4,3 +4,4 @@ sentence-transformers>=2.2.2
 scikit-learn>=1.2.2
 ibm-watson>=6.1.0
 python-dotenv>=1.0.0
+google-generative-ai>=0.1.1
